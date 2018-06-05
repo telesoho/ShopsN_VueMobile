@@ -1,5 +1,5 @@
 
-window.API_URL='http://haibaobei-ec.com:8082/';
+window.API_URL='http://api.shopsn/';
 // window.API_URL='http://api.shopsn.cn/';
 
 (function (w){
